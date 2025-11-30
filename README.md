@@ -42,16 +42,6 @@ Professional Magento 2 extension by W3CTRL for enhanced store functionality.
 
 ## 📦 Installation
 
-### Via Composer (Recommended)
-
-```bash
-composer require w3ctrl/Delete-Orders-Magento-2-Extension
-bin/magento module:enable W3ctrl_*
-bin/magento setup:upgrade
-bin/magento setup:di:compile
-bin/magento cache:flush
-```
-
 ### Manual Installation
 
 1. Download the extension from [W3CTRL.com](https://www.w3ctrl.com)
@@ -62,9 +52,9 @@ bin/magento cache:flush
 
 ## 🛒 Purchase & Demo
 
-- **Purchase**: [Buy Now on W3CTRL.com](https://www.w3ctrl.com)
+- **Purchase**: [Buy Now on W3CTRL.com](https://www.w3ctrl.com/product/cancel-order-magento-2-extension/)
 - **Live Demo**: [Request Demo](https://www.w3ctrl.com/contact-us/)
-- **Documentation**: [View Full Documentation](https://www.w3ctrl.com)
+- **Documentation**: [View Full Documentation](https://www.w3ctrl.com/product/cancel-order-magento-2-extension/)
 - **Support**: [Submit Ticket](https://www.w3ctrl.com/submit-ticket/)
 
 ---
@@ -114,7 +104,7 @@ Explore our complete collection of Magento 2 extensions:
 - [Extra Fee](https://github.com/w3ctrl/magento2-extra-fee)
 - [Weight Alert](https://github.com/w3ctrl/magento2-weight-alert)
 - [Product Feed](https://github.com/w3ctrl/magento2-product-feed)
-- [And many more...](https://www.w3ctrl.com)
+- [And many more...](https://www.w3ctrl.com/shop)
 
 ---
 
