@@ -12,11 +12,16 @@ Professional Magento 2 extension by W3CTRL for enhanced store functionality.
 
 ## ✨ Key Features
 
-- ✅ **Mass delete orders**
-- ✅ **Single order deletion**
-- ✅ **Admin permissions**
-- ✅ **Audit logging**
-- ✅ **Safe deletion process**
+- ✅ **Soft Delete (Archive Mode)**: Archive orders instead of permanent deletion
+- ✅ **Hard Delete**: Permanently remove orders from database
+- ✅ **Mass Delete Orders**: Bulk delete operations from order grid
+- ✅ **Single Order Deletion**: Delete button on order view page
+- ✅ **Audit Logging**: Track all deletion activities with admin user details
+- ✅ **Archived Orders Grid**: Dedicated interface to manage archived orders
+- ✅ **Restore Functionality**: Restore archived orders back to active status
+- ✅ **Auto-Purge**: Automated cleanup of archived orders via cron
+- ✅ **Admin Permissions**: Granular ACL control
+- ✅ **Safe Deletion Process**: Confirmation dialogs and validation
 
 ---
 
